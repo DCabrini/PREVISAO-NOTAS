@@ -28,7 +28,11 @@ O modelo deve ser capaz de responder quais do tipo de escola (gênero misto, só
 #' | student  | ID do aluno (dentro da escola)                                                                                    |
 
 # Arquivos:
+
  cat_school_data.csv Variáveis categóricas que são aplicadas às escolas.
+ 
  num_school data.csv Variáveis numéricas que são aplicadas às escolas.
+ 
  cat_student data.csv Variáveis categóricas que são aplicadas aos estudantes.
+ 
  num_student_data.csv Variáveis numéricas que são aplicadas aos estudantes.
